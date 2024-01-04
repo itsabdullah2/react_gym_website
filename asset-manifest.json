@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_gym_website/static/css/main.bd76b48e.css",
-    "main.js": "/react_gym_website/static/js/main.df6033fe.js",
+    "main.js": "/react_gym_website/static/js/main.4578da56.js",
     "static/media/landing.jpg": "/react_gym_website/static/media/landing.e066fe2d95c7706464df.jpg",
     "static/media/services-section.jpg": "/react_gym_website/static/media/services-section.f348e5c135d05a3fdfc9.jpg",
     "static/media/gallery-2.jpg": "/react_gym_website/static/media/gallery-2.38414ad78e428b862dd4.jpg",
@@ -32,10 +32,10 @@
     "static/media/who-we-are-1.jpg": "/react_gym_website/static/media/who-we-are-1.61a8d079c618ac3a47bb.jpg",
     "index.html": "/react_gym_website/index.html",
     "main.bd76b48e.css.map": "/react_gym_website/static/css/main.bd76b48e.css.map",
-    "main.df6033fe.js.map": "/react_gym_website/static/js/main.df6033fe.js.map"
+    "main.4578da56.js.map": "/react_gym_website/static/js/main.4578da56.js.map"
   },
   "entrypoints": [
     "static/css/main.bd76b48e.css",
-    "static/js/main.df6033fe.js"
+    "static/js/main.4578da56.js"
   ]
 }
