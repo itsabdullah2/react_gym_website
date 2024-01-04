@@ -8,7 +8,7 @@ const el = document.getElementById("root");
 const root = ReactDOM.createRoot(el);
 
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename={ProcessingInstruction.env.PUBLIC_URL}>
     <App />
   </BrowserRouter>
 );
