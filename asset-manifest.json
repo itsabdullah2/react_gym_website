@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react_gym_website/static/css/main.bd76b48e.css",
+    "main.js": "/react_gym_website/static/js/main.df6033fe.js",
+    "static/media/landing.jpg": "/react_gym_website/static/media/landing.e066fe2d95c7706464df.jpg",
+    "static/media/services-section.jpg": "/react_gym_website/static/media/services-section.f348e5c135d05a3fdfc9.jpg",
+    "static/media/gallery-2.jpg": "/react_gym_website/static/media/gallery-2.38414ad78e428b862dd4.jpg",
+    "static/media/gallery-5.jpg": "/react_gym_website/static/media/gallery-5.55ebdf02c02f806383a5.jpg",
+    "static/media/gallery-6.jpg": "/react_gym_website/static/media/gallery-6.0ec0c05998cd4b77839b.jpg",
+    "static/media/gallery-3.jpg": "/react_gym_website/static/media/gallery-3.1c9d713a91cab7f0d1e8.jpg",
+    "static/media/about-hero.jpg": "/react_gym_website/static/media/about-hero.791aaafdc5fb7a07f832.jpg",
+    "static/media/gallery-1.jpg": "/react_gym_website/static/media/gallery-1.f2306f6305ef0579314b.jpg",
+    "static/media/gallery-4.jpg": "/react_gym_website/static/media/gallery-4.28be2cda1edc07d181f2.jpg",
+    "static/media/reception.jpg": "/react_gym_website/static/media/reception.635fe83160dcb798aeaa.jpg",
+    "static/media/student-4.jpg": "/react_gym_website/static/media/student-4.401c09b924053b60b063.jpg",
+    "static/media/who-we-are-2.jpg": "/react_gym_website/static/media/who-we-are-2.8e32577fdde930c3618a.jpg",
+    "static/media/trainer-1.jpg": "/react_gym_website/static/media/trainer-1.0cc6dadd7107ce6aac41.jpg",
+    "static/media/sauna.jpg": "/react_gym_website/static/media/sauna.c25091224df9c784d81e.jpg",
+    "static/media/boxing.jpg": "/react_gym_website/static/media/boxing.014b58531e1931f8f5db.jpg",
+    "static/media/challenge.jpg": "/react_gym_website/static/media/challenge.ce3ba56f8da738a47434.jpg",
+    "static/media/student-3.jpg": "/react_gym_website/static/media/student-3.14427d6b52eb04dc39d5.jpg",
+    "static/media/trainer-3.jpg": "/react_gym_website/static/media/trainer-3.6192c55684cb37d56736.jpg",
+    "static/media/student-1.jpg": "/react_gym_website/static/media/student-1.4ae8bd9df9562619e4d0.jpg",
+    "static/media/student-2.jpg": "/react_gym_website/static/media/student-2.fea4cb4b94b938efcb55.jpg",
+    "static/media/student-6.jpg": "/react_gym_website/static/media/student-6.c6e0e4a1121db8e7737d.jpg",
+    "static/media/who-we-are-3.jpg": "/react_gym_website/static/media/who-we-are-3.626aedfe0d130fc2bf36.jpg",
+    "static/media/trainer-2.jpg": "/react_gym_website/static/media/trainer-2.05b7086dece3bf940fdd.jpg",
+    "static/media/who-we-are-4.jpg": "/react_gym_website/static/media/who-we-are-4.fa8391756c65c1027588.jpg",
+    "static/media/about.jpg": "/react_gym_website/static/media/about.060021dfa5ce5b2fa452.jpg",
+    "static/media/student-5.jpg": "/react_gym_website/static/media/student-5.464b70da80ea747d6a4a.jpg",
+    "static/media/spa.jpg": "/react_gym_website/static/media/spa.5ed3de0f7f6f1bf6de3b.jpg",
+    "static/media/who-we-are-1.jpg": "/react_gym_website/static/media/who-we-are-1.61a8d079c618ac3a47bb.jpg",
+    "index.html": "/react_gym_website/index.html",
+    "main.bd76b48e.css.map": "/react_gym_website/static/css/main.bd76b48e.css.map",
+    "main.df6033fe.js.map": "/react_gym_website/static/js/main.df6033fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd76b48e.css",
+    "static/js/main.df6033fe.js"
+  ]
+}
