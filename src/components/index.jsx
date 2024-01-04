@@ -1,0 +1,12 @@
+export { default as About } from "./About";
+export { default as Contact } from "./Contact";
+export { default as Home } from "./Home";
+export { default as Login } from "./Login";
+export { default as MembersShips } from "./MembersShips";
+export { default as Register } from "./Register";
+export { default as Services } from "./Services";
+export { default as Navbar } from "./Navbar";
+export { default as CustomLink } from "./CustomLink";
+export { default as ScrollBtnToTop } from "./ScrollBtnToTop";
+export { default as Footer } from "./Footer";
+export { default as DataOfPlanes } from "./DataOfPlanes";
